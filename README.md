@@ -126,7 +126,6 @@ The main objectives of the Serving Robot are:
 
 
 
-
 13. Motor Holder Clamp
 
     ![motor holder clamp](https://github.com/AshutoshPTech/Serving-Robot-using-nodemcu/assets/128606760/c35097c3-9251-4eaa-aaf7-eb084114b581)
