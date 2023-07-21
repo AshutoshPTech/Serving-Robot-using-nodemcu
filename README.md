@@ -1,4 +1,4 @@
-# Certainly! Below is the updated README file with the components images section:
+
 
 ---
 
