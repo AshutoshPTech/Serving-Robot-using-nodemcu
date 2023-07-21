@@ -182,7 +182,7 @@ We welcome contributions to enhance the Serving Robot project. To contribute, fo
 ## 6. Contact
 
 For questions, suggestions, or concerns, please reach out to the project maintainers at 
-- Ashutosh Pandey - ashuudemy1408@gmail.com.
+- Ashutosh Pandey - ashuudemy1408@gmail.com
 - Sagar Biswas - biswassagar418@gmail.com
 - Dhruv Mulay - dhruv272001@gmail.com
 - Himesh Sutar - himeshsutar22@gmail.com
