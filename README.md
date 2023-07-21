@@ -122,7 +122,7 @@ The main objectives of the Serving Robot are:
 
 12.  Glue Gun
 
-    ![glue gun](https://github.com/AshutoshPTech/Serving-Robot-using-nodemcu/assets/128606760/f2de1f37-4650-46c5-88a6-b23cce51cf5c)
+    ![glue gun](https://github.com/AshutoshPTech/Serving-Robot-using-nodemcu/assets/128606760/ace4ced2-50d3-4c79-b47d-be1d53a67abb)
 
 
 
